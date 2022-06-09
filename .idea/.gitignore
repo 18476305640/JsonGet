@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Spring Security安全框架从入门到进阶\Spring Security安全框架从入门到进阶资料、讲义、代码\SpringSecurity_day04\项目\spring_security_family\java-gather\.idea/dataSources/
+/dataSources.local.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
